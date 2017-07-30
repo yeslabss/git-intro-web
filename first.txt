@@ -1,8 +1,7 @@
 the first file
 
-<<<<<<< HEAD
 making changes to this file from branch03
 
 changing from branch02
->>>>>>> branch03
+
 
