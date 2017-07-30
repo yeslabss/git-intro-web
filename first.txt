@@ -1,6 +1,6 @@
 the first file
 
-making changes to this file from branch03
+making changes to this file from branch03 -- agreed by master
 
 changing from branch02
 
